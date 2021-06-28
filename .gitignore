@@ -1,0 +1,3 @@
+.htaccess
+ciFiles/app/Config.php
+ciFiles/app/Database.php
